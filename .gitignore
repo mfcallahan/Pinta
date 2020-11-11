@@ -9,6 +9,7 @@ compile
 config.log
 config.status
 configure
+.idea/
 install-sh
 intltool-extract.in
 intltool-merge.in
